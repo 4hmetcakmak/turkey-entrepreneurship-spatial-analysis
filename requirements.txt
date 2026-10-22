@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+geopandas>=0.14
+matplotlib>=3.7
+statsmodels>=0.14
+libpysal>=4.9
+esda>=2.5
+splot>=1.1
+spreg>=1.4
+jupyter
